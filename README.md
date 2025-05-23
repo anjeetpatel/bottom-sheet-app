@@ -18,7 +18,7 @@ A modern React-based UI application built using Next.js 15, TailwindCSS, Radix U
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bottom-sheet-app.git
+git clone https://github.com/anjeetpatel/bottom-sheet-app.git
 cd bottom-sheet-app
 ```
 ### 2. Install Dependencies
