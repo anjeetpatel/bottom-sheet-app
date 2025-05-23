@@ -10,9 +10,6 @@ A modern React-based UI application built using Next.js 15, TailwindCSS, Radix U
 - [Radix UI](https://www.radix-ui.com/)
 - [Lucide Icons](https://lucide.dev/)
 - [React Hook Form](https://react-hook-form.com/)
-- [React Day Picker](https://react-day-picker.js.org/)
-- [Embla Carousel](https://www.embla-carousel.com/)
-- TypeScript
 
 ---
 
@@ -39,5 +36,4 @@ Step 2: Force Install
 ```bash
 npm run dev
 ```
-✨ Author
-Made with ❤️ by Anjeet
+Then open your browser at: http://localhost:3000
